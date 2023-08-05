@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="netflix.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <img src="logo.png" class="logo">
+            
+            <div>
+                 <button class="lang">English</button>
+                <button class="sign">Sign In</button>
+                
+            </div>
+                
+        </nav>
+        <div class="middle">
+            <h1>Unlimited movies, and TV Shows and more</h1>
+            <h3>Watch anywhere. Cancel anytime</h3>
+            <p>Ready to watch? Enter your email to Create or restart your membership</p>
+            <form class="signup">
+                <input type="email" placeholder="Email address" required>
+                <button type="submit">Get Started  ></button>
+            </form>
+        </div>
+       
+    </div>
+    <div class="line2"></div>
+   <div class="features">
+    <h1>Enjoy on your TV</h1>
+    <h3>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray </h3>
+    <h3>players and more</h3>
+    
+    <div class="features1"><img src="feature-1.png" alt=""></div>
+    <div class="line3"></div>
+    <h1>Download your shows to watch offline</h1>
+    <h3>Save your favourites easily and always have something to watch.</h3>
+    
+    <img src="feature-2.png" >
+    <div class="line4"></div>
+    <h1>Watch everywhere</h1>
+    <h3>Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</h3>
+    
+    <img src="feature-3.png" >
+    <div class="line5"></div>
+    <h1>Create profiles for kids</h1>
+    <h3>Send children on adventures with their favourite characters in a space made </h3>
+    <h3>just for them—free with your membership.</h3>
+    
+    <img src="feature-4.png" >
+    <div class="line6"></div>
+    <h1>Frequently Asked Questions</h1>
+ <div class="ques">
+    <h2>What is Netflix?</h2>
+ </div>
+   <div class="ques2">
+    <h2>How much does Netflix cost?</h2>
+   </div>
+<div class="ques3">
+    <h2>Where can I watch?</h2>
+</div>
+<div class="ques4">
+    <h2>How do I watch?</h2>
+</div>
+<div class="ques5">
+    <h2>What can I watch on Netflix?</h2>
+</div>
+<div class="ques6">
+    <h2>Is Netflix good for kids?</h2>
+</div>
+<div class="down">
+    <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
+    <form class="signin">
+        <input type="email" placeholder="Email address" required>
+        <button type="submit">Get Started  ></button>
+    </form>
+</div>
+</div>
+</div>
+       <div class="line"></div>
+       <div class="more">
+        <ul>
+            <p>Questions? Call <u>000-800-919-169</u></p>
+            <p><u>FAQ</u></p>
+            <p><u>Media Centre</u></p>
+            <p><u>Ways to Watch</u></p>
+            <p><u>Cookie Preferences</u></p>
+            <p><u>Speed Test</u></p>
+            <button class="button">English</button>
+            <p><u>Netflix India</u></p>
+        </ul>
+        <ul>
+            <p><u>Help Centre</u></p>
+            <p><u>Investor Relations</u></p>
+            <p>
+                <u>Terms of Use</u></p>
+            <p>
+                <u>Corporate Information</u></p>
+            <p>
+                <u>Legal Notices</u></p>
+        </ul>
+        <ul>
+            <p>
+                <u>Account</u></p>
+            <p>
+                <u>Jobs</u></p>
+            <p>
+                <u>Privacy</u></p>
+            <p>
+                <u>Contact Us</u></p>
+            <p><u>Only on Netflix</u></p>
+        </ul>
+       </div>
+    </div>
+   </div>
+</body>
+</html>
